@@ -25,13 +25,10 @@ class SeoFriendlySlug
     public function createSlug(DiscussionWillBeSaved $event)
     {
         if (array_key_exists('title', $event->data['attributes'])) {
-            $event->discussion->setAttribute('slug', Str2::slug($event->discussion->getAttribute('title')));
+            $event->discussion->setAttribute('slug', static::slug($event->discussion->getAttribute('title')));
         }
     }
-}
 
-class Str2
-{
     /**
      * Function to create a sanitized slug ready to use.
      *
