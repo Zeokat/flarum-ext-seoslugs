@@ -4,7 +4,8 @@
 	"type": "flarum-extension",
 	"keywords": ["flarum","links","seo","transliteration","slug"],
 	"author": {
-		"name": "Zeokat"
+		"name": "Zeokat",
+		"homepage": "http://www.vozidea.com"
 	},
 	"license": "MIT",
 	"require": {
@@ -24,8 +25,8 @@
 		"flarum-extension": {
 			"title": "SEO friendly slugs for Flarum",
 			"icon": {
-				"name": "seo-friendly-slugs",
-				"backgroundColor": "#cc181e",
+				"name": "wrench",
+				"backgroundColor": "#6c8dc4",
 				"color": "#fff"
 			}
 		}
