@@ -25,7 +25,7 @@
 		"flarum-extension": {
 			"title": "SEO friendly slugs for Flarum",
 			"icon": {
-				"name": "wrench",
+				"name": "language",
 				"backgroundColor": "#6c8dc4",
 				"color": "#fff"
 			}
