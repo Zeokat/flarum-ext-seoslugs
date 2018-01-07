@@ -13,4 +13,5 @@ To install it with composer: `composer require zeokat/flarum-ext-seoslugs`
 This extensions was deeply tested under several languages (Spanish, German, Russian, Chinese, etc) and It should work as expected, without bugs. My goal in publishing this extension, is that in a near future it can be part of the of the Flarum's core. For this reason it is important that people from all over the world thoroughly test the extension and give their opinion on how to improve it or simply report bugs.
 
 GitHub: https://github.com/Zeokat/flarum-ext-seoslugs
+
 Packagist: https://packagist.org/packages/zeokat/flarum-ext-seoslugs
