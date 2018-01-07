@@ -5,7 +5,7 @@
  
 namespace Zeokat\Transliterator\Listener;
 
-use Flarum\Event\DiscussionWillBeSaved;
+use Flarum\Discussion\Event\Saving;
 use Illuminate\Contracts\Events\Dispatcher;
 
 class SeoFriendlySlug
