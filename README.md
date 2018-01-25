@@ -1,4 +1,4 @@
-# Friendly URLs (aka transliteration) in slugs
+# Friendly URLs (aka transliteration) in slugs for Flarum
 
 [![MIT license](https://img.shields.io/github/license/Zeokat/flarum-ext-seoslugs.svg)](https://github.com/Zeokat/flarum-ext-seoslugs/blob/master/LICENSE) 
 
