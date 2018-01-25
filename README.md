@@ -2,6 +2,8 @@
 
 [![MIT license](https://img.shields.io/github/license/Zeokat/flarum-ext-seoslugs.svg)](https://github.com/Zeokat/flarum-ext-seoslugs/blob/master/LICENSE) 
 
+![Friendly URL slugs Flarum](https://foro.vozidea.com/f-uploads/2018/01/slug-transliterator-flarum.png)
+
 With this extension, **Flarum can transliterate discussion's slugs**. This converts strings like `tránslįteratiön tėst ųsąge ñūtž` to `transliteration-test-usage-nutz`. This trasliterator extension is different from those previously published to Flarum.
 
 To achieve modern and more uniform results, as some successful CMSs with years of development behind them, the transliteration rules are based _(slightly modified)_ on the WordPress transliterating function.
