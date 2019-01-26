@@ -24,7 +24,7 @@
 		"flarum-extension": {
 			"title": "SEO friendly slugs for Flarum",
 			"icon": {
-				"name": "far fa-language",
+				"name": "fas fa-language",
 				"backgroundColor": "#6c8dc4",
 				"color": "#fff"
 			}
