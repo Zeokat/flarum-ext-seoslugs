@@ -1,3 +1,5 @@
+**UPDATE 14/03/2020:** This extension is not maintained anymore because since Flarum Beta 12, it includes a native Laravel `Str::slug()` trasliterator.
+
 # Friendly URLs (aka transliteration) in slugs for Flarum
 
 [![MIT license](https://img.shields.io/github/license/Zeokat/flarum-ext-seoslugs.svg)](https://github.com/Zeokat/flarum-ext-seoslugs/blob/master/LICENSE) 
